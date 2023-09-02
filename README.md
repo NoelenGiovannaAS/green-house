@@ -1,27 +1,14 @@
-# React + TypeScript + Vite
+# green-house
+Projeto desenvolvido para  o desafio #7DaysOfCode, uma alternativa para praticar conhecimentos em diversas linguagens/frameworks.  https://alura-7dayscode.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Figma: https://www.figma.com/file/0yOQR6fGtbdrmqeStiO0jf/7Days-React?type=design&node-id=0-1&mode=design&t=hQvKZVsnBZNkisfF-0
 
-Currently, two official plugins are available:
+Desafios: 
+- #7DaysOfCode - React 1/7: Implemente os componentes de uma página Figma
+- #7DaysOfCode - React 2/7: 👩🏽‍💻 Transforme CSS em styled components
+- #7DaysOfCode - React 3/7: Adicione funcionalidades utilizando os React Hooks
+- #7DaysOfCode - React 4/7: 👩🏽‍💻 Envie e-mails para os endereços cadastrados
+- #7DaysOfCode - React 5/7: Conecte a aplicação a uma API
+- #7DaysOfCode - React 6/7: 👩🏽‍💻 Manipule dados e adapte a sessão de ofertas
+- #7DaysOfCode - React 7/7: Faça o deploy da aplicação e finalize o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
