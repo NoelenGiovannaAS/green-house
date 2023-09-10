@@ -12,3 +12,5 @@ Desafios:
 - #7DaysOfCode - React 6/7: 👩🏽‍💻 Manipule dados e adapte a sessão de ofertas
 - #7DaysOfCode - React 7/7: Faça o deploy da aplicação e finalize o projeto
 
+Após os últimos desafios, a proposta é ir refatorando o código a medida que vou adquirindo conhecimento.
+
